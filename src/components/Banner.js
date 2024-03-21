@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Banner = () => {
-  return <div clossName='section'>Banner</div>;
+  return <div className='section' id='home'>Banner</div>;
 };
 
 export default Banner;
