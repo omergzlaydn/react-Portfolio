@@ -14,7 +14,7 @@ const About = () => {
     <section className='section' id='about' ref={ref}>
       <div className='container mx-auto'>
         <div className='flex-1 bg-about bg-contain bg-no-repeat h-[640px] mix-blend-lighten bg-top'>
-          img
+          
         </div>
         <motion.div
           variants={fadeIn}
